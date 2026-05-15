@@ -21,7 +21,7 @@ Este projeto é uma aplicação React moderna para o gerenciamento de tarefas co
 
 #### 1. Clone o repositório:
 
-git clone [https://github.com/SEU_USUARIO/aplicacao-de-tarefas.git](https://github.com/Franklin-Melo/aplicacao-de-tarefas.git)
+git clone https://github.com/Franklin-Melo/aplicacao-de-tarefas.git
 
 #### 2. Entre no diretório do projeto:
 
